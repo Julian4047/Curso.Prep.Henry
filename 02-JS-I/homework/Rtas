@@ -1,0 +1,5 @@
+Variables: Almacena Valores
+Strings: Bloques de texto
+Funciones (argumentos, return): Calculan, cambian variables
+Declaraciones if: Por medio de el, los datos escapan de una funcion
+Valores booleanos (true, false): se evalua como un valor de tipo true o false
