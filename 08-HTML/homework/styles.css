@@ -1,0 +1,38 @@
+         body {
+         margin: 100px auto;
+         padding: 40px;
+         background:url(spaghetti.jpg);
+         background-size: cover;
+         background-position: center;   
+         width: 50%;
+         font-family: sans-serif;
+         color: white; 
+         }
+         h1 {
+             color: olive;
+         }
+         img{
+             width:400px;
+         }
+         #thirdDiv {
+            height: 600px;
+            width:500px;
+            background:antiquewhite;
+            padding: 50px;
+            border-color: white;
+            border-width: 2px;
+         }
+         #spandid{
+             font-size: 18px;
+             margin: 50px;
+         }
+         #divClass2{
+           color: antiquewhite;
+           background:url(spaghetti.jpg);
+           background-size: 400px;
+         }
+         div{
+         align-items: center;  
+         justify-content: center;
+       }
+       
